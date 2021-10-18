@@ -1,5 +1,5 @@
 # ❗ Features
-# **120+ commands and counting across 13 different categories!
+# 120+ commands and counting across 13 different categories!
 
 # 🎉 Fun: `advice`, `fact`, `meme`, `reminder`, `pokemon and 6 more!`
 
