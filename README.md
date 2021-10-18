@@ -1,31 +1,31 @@
 # ❗ Features
 120+ commands and counting across 13 different categories!
 
-🎉 Fun: advice, fact, meme, reminder, pokemon and 6 more!
+🎉 Fun: `advice`, `fact`, `meme`, `reminder`, `pokemon and 6 more!`
 
-🎁 Giveaway: g-start, g-reroll, g-edit and g-delete!
+🎁 Giveaway: `g-start`, `g-reroll`, `g-edit` and `g-delete`!
 
-💬 Guild: avatar, giveaway, server-info, poll, and 6 more!
+💬 Guild: `avatar`, `giveaway`, `server-info`, `poll`, and 6 more!
 
-👑 Host: reload, shutdown, addban, eval and 5 more!
+👑 Host: `reload`, `shutdown`, `addban`, `eval` and 5 more!
 
-🖼 Image: blurpify, changemymind, phcomment, stickbug, whowouldwin, threats, and 10 more!
+🖼 Image: `blurpify`, `changemymind`, `phcomment`, `stickbug`, `whowouldwin`, `threats`, and 10 more!
 
-💰 Level: leaderboard, rank!
+💰 Level: `leaderboard`, `rank`!
 
-❔ Misc: about, invite, status, support, and 4 more!
+❔ Misc: `about`, `invite`, `status`, `support`, and 4 more!
 
-🚓 Moderation: ban, clear, kick, warn, report, unmute and 9 more!
+🚓 Moderation: `ban`, `clear`, `kick`, `warn`, `report`, `unmute` and 9 more!
 
-🎵 Music: play, queue, shuffle, seek, lyrics and 25 more!
+🎵 Music: `play`, `queue`, `shuffle`, `seek`, `lyrics` and 25 more!
 
-🔞 NSFW: Total of 8 commands!
+🔞 NSFW: `Total of 8 commands!`
 
-Plugins: serverstats, set-(logs | plugin) and setlang!
+Plugins: `serverstats`, `set-(logs | plugin) and setlang!`
 
-🔎 Searcher: fortnite, weather, twitch, steam and 4 more!
+🔎 Searcher: `fortnite`, `weather`, `twitch`, `steam` and 4 more!
 
-❓ Ticket: t-(close | create |setup )!
+❓ Ticket: `t-(close | create |setup )`!
 
 Full list of commands: here.
 
